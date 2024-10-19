@@ -1,5 +1,5 @@
 bookdown::gitbook:
-  output_dir: "_book"
+  output_dir: "docs"
   css: style.css
   config:
     toc:
