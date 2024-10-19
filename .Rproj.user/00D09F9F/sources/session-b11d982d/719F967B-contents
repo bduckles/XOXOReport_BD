@@ -1,0 +1,21 @@
+--- 
+title: "XOXO_CommunitySurvey_2024"
+author: "Beth M. Duckles"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is an example of using the bookdown package to write the "XOXO Community Survey 2024" report.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+## github-repo: [bduckles/XOXO_CommunitySurvey_2024]Update when have link
+---
+
+# About
+
+This is a report written for the XOXO community based on an open survey conducted by Beth Duckles. 
+
