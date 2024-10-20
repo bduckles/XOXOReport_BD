@@ -25,10 +25,10 @@ The most popular words folks used were: (approximate number in parentheses):
 * Friendly (3)
 * Sharing (3)
 
-## Community Value Theme Groupings
+__Community Value Theme Groupings__
 I grouped the words together in themes that I came up with based on what folks wrote/said. I added quotes to match the groupings. All groupings are open to discussion/interpretation and clearly there is a lot of overlap.  
 
-### 1) Community 
+## Community 
 Quite a few people used words related to community such as: support, sharing, acceptance, generosity, mutual support, supportive, camaraderie, mutual aid, togetherness, care for each other, cooperation, equity, giving voice to the marginalized, giving others the benefit of the doubt, lifting each other up, mutual respect, togetherness, authenticity, tolerance, trust, utopianism and validation. 
 
 Quotes on community:
@@ -36,7 +36,7 @@ Quotes on community:
 * Inclusive community
 * Unique set of people with a lot of things in common that supports each other and shares good stuff
 
-### 2) Creative/Weird/Fun
+## Creative/Weird/Fun
 Creative was the most used word, and it seemed to also encompass the idea of artistry and a sense of fun. Folks used words like: enthusiastic, humor, entertaining, exciting, making weird stuff for fun, playful, sharing fun things, sharing neat projects and weirdness. 
 
 Some quotes around this theme: 
@@ -48,7 +48,7 @@ Some quotes around this theme:
 	*   Making things. Remaining independent.
 	*   Knowledge & awareness; earnest love of the weird and silly; thoughtful and playful uses of technology (esp. The Internet); mutual respect and care 
 
-### 3) Inclusivity and Openness 
+## Inclusivity and Openness 
 Words people used to describe the community around the idea that it’s open and inclusive. They also used words like: respect, friendly, helpful, encouragement, inviting, welcoming, inclusiveness. 
 
 While the words inclusivity and openness were used, some also described the community being closed as part of this inclusivity. Some called it safe, a safe haven or safe space for expressing thoughts. Additionally others talked about it being also a place where there was privacy and also confidential-ish. 
@@ -58,7 +58,7 @@ Quotes around inclusivity and openness:
 	* 	Safe spaces, where people feel comfortable to be their true authentic selves. Inclusivity, where everyone is welcomed, seen and heard. Encouragement and support in all aspects of life, from local classifieds-type of sharing, to deeper and more personal concerns.
 	* 	having a safe community that supports each other
 
-### 4) Curiosity/Intelligence 
+## Curiosity/Intelligence 
 Words people used to describe the value of curiosity include: insightful, interest, knowledge sharing, news sharing, resource sharing, resourcefulness, smart, thoughtful discussion, Curiosity, Interesting, learning, understanding, exploration. As we’ll see later, many folks said that the community was smart and that they appreciated the level of intelligence in discourse. 
 
 Quotes around curiosity and intelligence:
@@ -69,7 +69,7 @@ Quotes around curiosity and intelligence:
 	* 	Thoughtfully sharing highlights of the internet, commentary, empathy, joy, and advice
 	*   Interesting news, events, and discussions that I don’t find anywhere else
 
-### 4) Kindness and Empathy 
+## Kindness and Empathy 
 The value of kindness and empathy took many forms: compassionate, helping, a caring community, connecting and nurturing, gentle, kind, wholesome-ness, earnest, empathy, integrity. 
 
 Quotes that discuss kindness: 
@@ -83,7 +83,7 @@ Quotes that discuss kindness:
 	* Kindness, patience, and passion.  Also, showing or trying for best practices for lots of things — inclusion, managing and sharing emotions appropriately  (the #bad-attitude channel), the reactji people added
 	
 
-### 5) Emotional Intelligence and Integrity 
+## Emotional Intelligence and Integrity 
 Folks seemed to convey a value in the community around emotional intelligence, though it wasn’t always named this. Some example phrases: acknowledgment of feelings, earnest good vibes, listening (before fixing). Getting consent, space for feeling feelings and witnessing others, meta communication, communication as a skill, keep the bad vibes in their own channels, 
 
 Similar sentiments could be found in a sense of integrity in the community such as words like Thoughtful, Respect, Respectful, civility, honesty, humanity, principled, respectful, sincerity. 
@@ -93,15 +93,15 @@ Quotes:
 	* 	Acceptance of others and their ideas. Breadth and diversity of userbase.
 	*   Mutual support/big sense of community , interest in others ideas, joy of sharing and supporting, doing our best to make sure everyone is thoughtfully heard and included
 
-### Overall Values Statements 
-Some folks shared phrases that seemed to be more general and to encompass several of the values above
+## Overall Values Statements 
+Some folks shared phrases that seemed to be more general and to encompass several of the values above.
 
 *   Collective hive-mind of support, creativity, appreciation for art with a set of overlapping societal principles that steer healthy moderation and a general openness to new dialogue or change.
 *   Be the internet you want to see in the world
 * 	a commitment to the good parts of the web
 * 	A like-minded community conscientious of etiquette, while encouraging curiosity and discovery without competing for popularity or ostracizing members.
 
-### Additional Quotes/Comments
+## Additional Quotes/Comments
 
 	* 	I don't know that there are strong core values that come from the slack itself. I think it is in many ways a reflection of the event rather than it's own community with a sense of identity
 	* 	To me, it was more than just a companion piece to the physical festival. I attended a few times, regretted not going the first year, and missed out on securing a spot in the last year. It was the crossroads of art, culture, and techology from a group of what felt like inclusionary, progressive and small "l" liberal people that agreed to operate under a code of conduct that emphasized politeness and kindness in a time when those things are not the norm (online or in public).

@@ -3,7 +3,7 @@
 
 The question we’ll discuss in this section was “What do you appreciate about the XOXO Slack community?” Unsurprisingly, this mirrored much of what was discussed in the values section, but with deeper explanation. 
 
-##The People 
+## The People 
 
 By far, the overwhelming response to this question of what folks appreciate about the Slack is the other people in the Slack. 
 
@@ -26,7 +26,7 @@ By far, the overwhelming response to this question of what folks appreciate abou
 * All of those core values! And the sheer interestingness of the members of the community
 
 
-## Diversity of Perspectives 
+### Diversity of Perspectives 
 One of the attributes of the people that folks commented on was how many diverse perspectives they felt could be found in the slack. 
 
 *	The people who are on it, come from a lot of different perspectives and backgrounds and that makes it more interesting
@@ -36,43 +36,11 @@ One of the attributes of the people that folks commented on was how many diverse
 * That it's far more of a diverse community – along almost any axis, other than perhaps political leanings – than I would ever have access to in my day to day life.
 * diversity, empathy, endless curiosity
 
-## Kindness 
-
-Many, many people in the survey described the community as kind. Some examples: 
-
-*	I have a group of kind, caring humans who give a shit.
-*	Open minded people, kindness and empathy centered, a bastion of covid-awareness.
-*	I appreciate how people are supportive and share their thoughts
-*	Positivity, curiosity.
-*	People who are like me, openly sharing who they are, sharing advice, support, empathy and making every experience shared and a little less hard
-*	The kindness and enthusiasm
-*	Same thing! All the creative, kind people. The commitment to inclusivity and authenticity
-*	everyone is so awesome and kind
-* The kindness, the knowledge, the generosity of spirit of everyone involved.
-* everyone is so nice and we assume best intentions! also each account is one real person who has presumably interacted with the other people here IRL at least once, as part of a larger network (which lends some accountability/responsibility)
-* People are nice to each other. There are regular characters. The usual Slack conveniences that make it possible for people to not repeat themselves and to let me ignore US politics if I want to.
-* the small acts of kindness or indications of support people offer each other; emoji indications or threaded replies have genuinely lifted my spirits
 
 
-## Learning 
+## Resources
 
-Folks also discussed how important it was to learn from others in the slack and how much they had learned over time. People talked about how smart other folks in the Slack are and how intelligent the conversations were in the channels. They also described the space as being curated and having a variety of things they wouldn’t otherwise see/hear about. 
-
-*	I learn SO much. There's so many smart voices.
-*	The smart creative, mostly likeminded folks.
-*	Local subject matter experts, friendly people, good discussion
-*	Honestly, the “closed” nature of the community worked for me for professional reasons. But I also loved the diversity of topics and how it let me get to know different people from the general community.
-*	Being able to ask all the dumb questions about anything and everything, and having really smart, capable people reply with their wisdom and resources
-*	From the delightful shared experience of the Animal Crossing channel in early Covid, to the freewheeling discussion of politics, to the creative problem solving and solidarity of many other channels, questions, learning and growth are supported and so are the personal connections we’ve forged at the festival and in this digital space.
-*	empathy, wisdom of the crowd, discovery
-*	Diversity of perspectives, freely given knowledge, empathy and compassion for experiences, range of interests, learning and growing together
-*	knowledge base
-*	Curious, smart, politically progressive
-* In depth and well meaning discussions on difficult topics - seeing people’s various opinions and considerations help me form my own
-*	A large amount of very smart people all feeling like it's a safe place to express their thoughts
-*	It's a large group of smart, successful, creative, people who as a whole, is good-internet. I've made friends and professional connections here and my favorite by-product is the community's ability to help me gather information on almost anything, which also spoils me because I'm not confident in my abilities to find reliable information through traditional web searches.
-
-## Resources/Asking for Things
+### Asking for Information 
 
 Respondents discussed using the Slack to share knowledge, ask for help and to learn from one another. They described people being generous and helpful when they did so. 
 
@@ -92,10 +60,30 @@ Respondents discussed using the Slack to share knowledge, ask for help and to le
 *	I like that I have a place to hear about the things I'd hear about on social media (news, tech news, neat creative projects, dumb jokes) without the context collapse of social media, and in a moderated and kind environment. As a curated microcosm of the internet at large, I can dip my toe in and feel rewarded without getting hit with the anxiety and overwhelm - and the smaller scale means I've made some lasting friendships and connections because I'm able to show up more fully than I would if I was more afraid.
 *	private identity channels; knowing that i can ask basic questions and people love info-dumping with no judgement
 * It's a large group of smart, successful, creative, people who as a whole, is good-internet. I've made friends and professional connections here and my favorite by-product is the community's ability to help me gather information on almost anything, which also spoils me because I'm not confident in my abilities to find reliable information through traditional web searches.
-
 * SO much. It's a place where I learn about and discuss current events and art with folks I like and admire. Also, frankly, it'a a place I can lurk! I expreience severe rejection sensitivity in online spaces, so the fact that I can pop a little emoji next to a post to show sympathy, curiosity, etc is really nice for me. I also experience the moderation as very present, compassionate, and firm, which REALLY makes a difference in the space.
 
-## News
+
+### Learning 
+
+Folks also discussed how important it was to learn from others in the slack and how much they had learned over time. People talked about how smart other folks in the Slack are and how intelligent the conversations were in the channels. They also described the space as being curated and having a variety of things they wouldn’t otherwise see/hear about. 
+
+*	I learn SO much. There's so many smart voices.
+*	The smart creative, mostly likeminded folks.
+*	Local subject matter experts, friendly people, good discussion
+*	Honestly, the “closed” nature of the community worked for me for professional reasons. But I also loved the diversity of topics and how it let me get to know different people from the general community.
+*	Being able to ask all the dumb questions about anything and everything, and having really smart, capable people reply with their wisdom and resources
+*	From the delightful shared experience of the Animal Crossing channel in early Covid, to the freewheeling discussion of politics, to the creative problem solving and solidarity of many other channels, questions, learning and growth are supported and so are the personal connections we’ve forged at the festival and in this digital space.
+*	empathy, wisdom of the crowd, discovery
+*	Diversity of perspectives, freely given knowledge, empathy and compassion for experiences, range of interests, learning and growing together
+*	knowledge base
+*	Curious, smart, politically progressive
+* In depth and well meaning discussions on difficult topics - seeing people’s various opinions and considerations help me form my own
+*	A large amount of very smart people all feeling like it's a safe place to express their thoughts
+*	It's a large group of smart, successful, creative, people who as a whole, is good-internet. I've made friends and professional connections here and my favorite by-product is the community's ability to help me gather information on almost anything, which also spoils me because I'm not confident in my abilities to find reliable information through traditional web searches.
+
+
+
+### News
 
 Folks also described the slack as the place that they used to find the news, and that they relied on each other to have compelling and interesting conversations about topics that were on the front page of the newspapers.  
 
@@ -109,7 +97,8 @@ Folks also described the slack as the place that they used to find the news, and
 *	Surfaces good posts and news (replaced social media). People there make me feel seen. We don’t ramble, we share and support.
 * I don’t like to consume news because of its ill effect on my mental health, and this Slack helps me stay engaged with issues I care about. I appreciate hearing the perspectives of this community.
 
-## Cool Stuff People Share 
+
+### Cool Stuff People Share 
 
 People described the benefit of being in a space where folks share cool stuff and they get to have curated content that they like. 
 
@@ -135,7 +124,31 @@ Many folks talked about how they shared values with others in the community, inc
 * It's the only social network that feels truly connected and wholesome. I use it to connect with a community of people that share my values, and know that the people sharing information care about the quality of their information, and will always act in the best interest of the community and each other. And if anybody acts in harmful ways, they will learn from their mistakes and act differently (or be removed from the community)
 * Learning from the breadth of knowledge and experience of my Slack pals in a place where we tacitly acknowledging shared beliefs that I can't assume are shared everywhere (caring for other people, respecting other people's experiences and privacy)
 
-## Safety
+
+### Kindness 
+
+Many, many people in the survey described the community as kind. Some examples: 
+
+*	I have a group of kind, caring humans who give a shit.
+*	Open minded people, kindness and empathy centered, a bastion of covid-awareness.
+*	I appreciate how people are supportive and share their thoughts
+*	Positivity, curiosity.
+*	People who are like me, openly sharing who they are, sharing advice, support, empathy and making every experience shared and a little less hard
+*	The kindness and enthusiasm
+*	Same thing! All the creative, kind people. The commitment to inclusivity and authenticity
+*	everyone is so awesome and kind
+* The kindness, the knowledge, the generosity of spirit of everyone involved.
+* everyone is so nice and we assume best intentions! also each account is one real person who has presumably interacted with the other people here IRL at least once, as part of a larger network (which lends some accountability/responsibility)
+* People are nice to each other. There are regular characters. The usual Slack conveniences that make it possible for people to not repeat themselves and to let me ignore US politics if I want to.
+* the small acts of kindness or indications of support people offer each other; emoji indications or threaded replies have genuinely lifted my spirits
+
+
+
+
+
+
+
+### Safety
 One of those shared values seemed to be safety. People consistently referred to the slack as a safe space, or a place were they felt they could be themselves. They also commented that this made the space trustworthy and easy to be in. 
 *	people assume good intent and read with compassion and reply with civility; it's a safe space for people with marginalized identities, people are funny and kind and creative and there's very little 'rock star' attitude (even from people who are literally rock stars)
 *	The safety and established trust.
@@ -151,7 +164,8 @@ People also described this as a place with people they could trust
 *	My views align with those around me, and I enjoy chatting with people who share common ground. Since we all respect the code of conduct, there's less negative behavior, making interactions smoother. I value learning from the random, niche interests everyone brings, as someone always has expertise in something I’m curious about. These diverse perspectives help me expand my understanding and knowledge.
 *	The broad spectrum of experiences and knowledge so that I can find out about a lot of different topics, from people who I feel like I can trust because they've been vetted.
 
-## Privacy 
+
+### Privacy 
 
 Some folks linked safety with the privacy of the space. 
 
@@ -159,7 +173,8 @@ Some folks linked safety with the privacy of the space.
 *	Honestly, the “closed” nature of the community worked for me for professional reasons. But I also loved the diversity of topics and how it let me get to know different people from the general community.
 *	The wide world will never see it so I can really be myself
 
-## Community 
+
+### Community 
 
 People discussed community as something that they felt a part of, that was important to them and that they shared with others.  
 
@@ -176,7 +191,8 @@ People discussed community as something that they felt a part of, that was impor
 * Ability to vent and then find distractions and cool things and inspiration
 * So many things. It's a place to go with wild ideas, or burning questions, or amusing anecdotes. It is a place to be supported and to give support.
 
-#Openness
+
+### Openness
 
 People also described the community as open: 
 
@@ -184,6 +200,7 @@ People also described the community as open:
 *	Open minded people, kindness and empathy centered, a bastion of covid-awareness.
 *	Openness, creativity, sharing and support
 *	that it's open, helpful, welcoming, entertaining
+
 
 ## Portland 
 
