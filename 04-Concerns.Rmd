@@ -176,7 +176,7 @@ Some discussed concerns around governing with a new leadership
 ## Needs for Types of Community Members
 
 
-## Mental Health and Well Being 
+### Mental Health and Well Being 
 
 Some folks in the community talked about their mental health being greatly enhanced by the community and their fears about the loss of this community going forward. They said that the Slack combatted their loneliness, their doomscrolling and that it contributed to their well being. They were concerned that their lives would be worse without it. 
 
@@ -188,6 +188,7 @@ Some folks in the community talked about their mental health being greatly enhan
 *	I’m very concerned about losing this space as the internet becomes more hostile.
 *	I feel very socially isolated right now and this going away is going to make that worse
 *	The XOXO Slack has been a valuable resource for me, both as a news source (as someone who doesn't spend any time on public social media) and as a community. It has been especially valuable during the pandemic. I would really miss having that connection to a group of similarly pandemic-cautious people to remind me that it's the rest of the world that's making wild choices, not us.
+
 
 
 ### People who Lurk 
