@@ -1,5 +1,5 @@
 
-# Appreciate About Community 
+# Appreciation For the Community 
 
 The question we’ll discuss in this section was “What do you appreciate about the XOXO Slack community?” Unsurprisingly, this mirrored much of what was discussed in the values section, but with deeper explanation. 
 
@@ -151,6 +151,7 @@ Many, many people in the survey described the community as kind. Some examples:
 
 ### Safety
 One of those shared values seemed to be safety. People consistently referred to the slack as a safe space, or a place were they felt they could be themselves. They also commented that this made the space trustworthy and easy to be in. 
+
 *	people assume good intent and read with compassion and reply with civility; it's a safe space for people with marginalized identities, people are funny and kind and creative and there's very little 'rock star' attitude (even from people who are literally rock stars)
 *	The safety and established trust.
 *	The caliber of people and the fact that it's about as safe of a space as I could imagine existing online. It might actually be the safest space online.
@@ -164,6 +165,7 @@ People also described this as a place with people they could trust
 
 *	My views align with those around me, and I enjoy chatting with people who share common ground. Since we all respect the code of conduct, there's less negative behavior, making interactions smoother. I value learning from the random, niche interests everyone brings, as someone always has expertise in something I’m curious about. These diverse perspectives help me expand my understanding and knowledge.
 *	The broad spectrum of experiences and knowledge so that I can find out about a lot of different topics, from people who I feel like I can trust because they've been vetted.
+
 
 
 ### Privacy 

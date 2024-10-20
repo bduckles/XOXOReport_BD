@@ -19,7 +19,7 @@ Welcome to the XOXO Community Survey 2024 report. This report covers various asp
 ## Table of Contents
 
 - [Introduction](01-intro.html)
-- [Values in the Community](02-ValuesCommty.html)
-- [Appreciation for the Community](03-AppreciateCmmty.html)
+- [Community Values](02-ValuesCommty.html)
+- [Appreciation For the Community](03-AppreciateCmmty.html)
 - [Concerns in the Community](04-Concerns.html)
-
+- [Impact of the Slack](09-Impact.html)

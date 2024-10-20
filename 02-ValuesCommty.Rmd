@@ -44,13 +44,13 @@ Creative was the most used word, and it seemed to also encompass the idea of art
 
 Some quotes around this theme: 
 
-	* 	Give creative, smart, good-hearted people a safe way to express themselves, connect with others, learn to share themselves with the world, and live fulfilling sustainable creative lives.
-	* 	A welcoming community for the best weirdos the internet has to offer
-	* 	A community of people who build good internet-related things (loosely defined). People who are humane and humorous. People who want to share things that they find joyful.
-	*   Creative, curious, KIND people. Safe space to explore ideas and thoughts about life and creative work!
-	*   take joy in the things around you; celebrate things that are cool; celebrate each other; assume good faith; it's OK to not be OK; fuck [elon / trump / DHH / tech-or-politics-adjacent weirdo of the week]
-	*   Making things. Remaining independent.
-	*   Knowledge & awareness; earnest love of the weird and silly; thoughtful and playful uses of technology (esp. The Internet); mutual respect and care 
+* 	Give creative, smart, good-hearted people a safe way to express themselves, connect with others, learn to share themselves with the world, and live fulfilling sustainable creative lives.
+* 	A welcoming community for the best weirdos the internet has to offer
+* 	A community of people who build good internet-related things (loosely defined). People who are humane and humorous. People who want to share things that they find joyful.
+*   Creative, curious, KIND people. Safe space to explore ideas and thoughts about life and creative work!
+*   take joy in the things around you; celebrate things that are cool; celebrate each other; assume good faith; it's OK to not be OK; fuck [elon / trump / DHH / tech-or-politics-adjacent weirdo of the week]
+*   Making things. Remaining independent.
+*   Knowledge & awareness; earnest love of the weird and silly; thoughtful and playful uses of technology (esp. The Internet); mutual respect and care 
 
 ## Inclusivity and Openness 
 
@@ -60,9 +60,9 @@ While the words inclusivity and openness were used, some also described the comm
 
 Quotes around inclusivity and openness: 
 
-	* 	Openness, curiosity, fun, belief that the internet can be a wonderful, creative place.
-	* 	Safe spaces, where people feel comfortable to be their true authentic selves. Inclusivity, where everyone is welcomed, seen and heard. Encouragement and support in all aspects of life, from local classifieds-type of sharing, to deeper and more personal concerns.
-	* 	having a safe community that supports each other
+* 	Openness, curiosity, fun, belief that the internet can be a wonderful, creative place.
+* 	Safe spaces, where people feel comfortable to be their true authentic selves. Inclusivity, where everyone is welcomed, seen and heard. Encouragement and support in all aspects of life, from local classifieds-type of sharing, to deeper and more personal concerns.
+* 	having a safe community that supports each other
 
 ## Curiosity/Intelligence 
 
@@ -70,26 +70,26 @@ Words people used to describe the value of curiosity include: insightful, intere
 
 Quotes around curiosity and intelligence:
 
-	* 	Super bright people who are really nice and very tech savvy
-	* 	Smart creative folks sharing and helping each other.
-	* 	the confluence of curiosity, expertise and community
-	* 	low-stakes learning community
-	* 	Thoughtfully sharing highlights of the internet, commentary, empathy, joy, and advice
-	*   Interesting news, events, and discussions that I don’t find anywhere else
+* 	Super bright people who are really nice and very tech savvy
+* 	Smart creative folks sharing and helping each other.
+* 	the confluence of curiosity, expertise and community
+* 	low-stakes learning community
+* 	Thoughtfully sharing highlights of the internet, commentary, empathy, joy, and advice
+*   Interesting news, events, and discussions that I don’t find anywhere else
 
 ## Kindness and Empathy 
 The value of kindness and empathy took many forms: compassionate, helping, a caring community, connecting and nurturing, gentle, kind, wholesome-ness, earnest, empathy, integrity. 
 
 Quotes that discuss kindness: 
 
-	* Supportive & honest, and a kind place to be on the internet.
-	* Empathy. A safe space to act like a social network without worrying about the bad parts of the internet.
-	* Compassionate, empathetic, engaged community caring for each other’s creative pursuits to become more whole humans.
-	* Creativity and empathy driven kindness
-	Empathy and kindness centered willingness to be hyped up about almost anything
-	* caring and helpful 
-	* Empathy and creativity. We are people who have been brought together by caring about making things thoughtfully in community with others, and that if you are emotionally vulnerable about the difficulties of that journey it will be paid back with kindness and a sense of unity
-	* Kindness, patience, and passion.  Also, showing or trying for best practices for lots of things — inclusion, managing and sharing emotions appropriately  (the #bad-attitude channel), the reactji people added
+* Supportive & honest, and a kind place to be on the internet.
+* Empathy. A safe space to act like a social network without worrying about the bad parts of the internet.
+* Compassionate, empathetic, engaged community caring for each other’s creative pursuits to become more whole humans.
+* Creativity and empathy driven kindness
+* Empathy and kindness centered willingness to be hyped up about almost anything
+* caring and helpful 
+* Empathy and creativity. We are people who have been brought together by caring about making things thoughtfully in community with others, and that if you are emotionally vulnerable about the difficulties of that journey it will be paid back with kindness and a sense of unity
+* Kindness, patience, and passion.  Also, showing or trying for best practices for lots of things — inclusion, managing and sharing emotions appropriately  (the #bad-attitude channel), the reactji people added
 	
 
 ## Emotional Intelligence and Integrity 
@@ -99,9 +99,9 @@ Similar sentiments could be found in a sense of integrity in the community such 
 
 Quotes: 
 
-	* 	Everyone is valuable and deserves to be treated with respect.
-	* 	Acceptance of others and their ideas. Breadth and diversity of userbase.
-	*   Mutual support/big sense of community , interest in others ideas, joy of sharing and supporting, doing our best to make sure everyone is thoughtfully heard and included
+* 	Everyone is valuable and deserves to be treated with respect.	
+* 	Acceptance of others and their ideas. Breadth and diversity of userbase.
+*   Mutual support/big sense of community , interest in others ideas, joy of sharing and supporting, doing our best to make sure everyone is thoughtfully heard and included
 
 ## Overall Values Statements 
 
@@ -114,7 +114,7 @@ Some folks shared phrases that seemed to be more general and to encompass severa
 
 ## Additional Quotes/Comments
 
-	* 	I don't know that there are strong core values that come from the slack itself. I think it is in many ways a reflection of the event rather than it's own community with a sense of identity
-	* 	To me, it was more than just a companion piece to the physical festival. I attended a few times, regretted not going the first year, and missed out on securing a spot in the last year. It was the crossroads of art, culture, and techology from a group of what felt like inclusionary, progressive and small "l" liberal people that agreed to operate under a code of conduct that emphasized politeness and kindness in a time when those things are not the norm (online or in public).
-	* 	Progressivism, humanism, and a love for all things indie
+* 	I don't know that there are strong core values that come from the slack itself. I think it is in many ways a reflection of the event rather than it's own community with a sense of identity
+* 	To me, it was more than just a companion piece to the physical festival. I attended a few times, regretted not going the first year, and missed out on securing a spot in the last year. It was the crossroads of art, culture, and techology from a group of what felt like inclusionary, progressive and small "l" liberal people that agreed to operate under a code of conduct that emphasized politeness and kindness in a time when those things are not the norm (online or in public).
+* 	Progressivism, humanism, and a love for all things indie
 
