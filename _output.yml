@@ -7,7 +7,7 @@ bookdown::gitbook:
         <li><a href="./">XOXO Community Survey 2024 Report</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    edit: https://github.com/bduckles/XOXOReport_BD/edit/main/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
   includes:

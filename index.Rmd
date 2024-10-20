@@ -11,4 +11,15 @@ github-repo: https://github.com/bduckles/XOXOReport_BD
 
 ---
 
-This is a bookdown for the XOXO Community Survey 
+
+# XOXO Community Survey 2024
+
+Welcome to the XOXO Community Survey 2024 report. This report covers various aspects of community engagement and feedback collected during the survey.
+
+## Table of Contents
+
+- [Introduction](01-intro.html)
+- [Values in the Community](02-ValuesCommty.html)
+- [Appreciation for the Community](03-AppreciateCmmty.html)
+- [Concerns in the Community](04-Concerns.html)
+

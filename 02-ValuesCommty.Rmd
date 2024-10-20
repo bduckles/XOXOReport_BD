@@ -1,34 +1,109 @@
-# Cross-references {#cross}
 
-Cross-references make it easier for your readers to find and link to elements in your book.
+# Community Values
 
-## Chapters and sub-chapters
+The question we asked was: “If you were to briefly summarize the core values of the XOXO Slack Community as it exists now, what would they be? 
 
-There are two steps to cross-reference any heading:
+Many folks responded with a string of words separated by commas, so I pulled those apart, counted them and collapsed where appropriate (e.g. creative, creativity and creations became creativity). Others wrote a phrase or a sentence and those are interspersed in the discussion where they added to the themes. 
 
-1. Label the heading: `# Hello world {#nice-label}`. 
-    - Leave the label off if you like the automated heading generated based on your heading title: for example, `# Hello world` = `# Hello world {#hello-world}`.
-    - To label an un-numbered heading, use: `# Hello world {-#nice-label}` or `{# Hello world .unnumbered}`.
+The most popular words folks used were: (approximate number in parentheses): 
+* Empathy	(27)
+* Kindness (26)
+* Creative (25)
+* Openness	(14)
+* Community	(15)
+* Curiosity	(13)
+* Inclusivity (12)
+* Thoughtful (11)
+* Support (9)
+* Compassionate	(9)
+* Fun (7)
+* Caring (6)
+* Respect (6)
+* Enthusiastic (5)
+* Helpful (5)
+* Generosity (4)
+* Friendly (3)
+* Sharing (3)
 
-1. Next, reference the labeled heading anywhere in the text using `\@ref(nice-label)`; for example, please see Chapter \@ref(cross). 
-    - If you prefer text as the link instead of a numbered reference use: [any text you want can go here](#cross).
+## Community Value Theme Groupings
+I grouped the words together in themes that I came up with based on what folks wrote/said. I added quotes to match the groupings. All groupings are open to discussion/interpretation and clearly there is a lot of overlap.  
 
-## Captioned figures and tables
+### 1) Community 
+Quite a few people used words related to community such as: support, sharing, acceptance, generosity, mutual support, supportive, camaraderie, mutual aid, togetherness, care for each other, cooperation, equity, giving voice to the marginalized, giving others the benefit of the doubt, lifting each other up, mutual respect, togetherness, authenticity, tolerance, trust, utopianism and validation. 
 
-Figures and tables *with captions* can also be cross-referenced from elsewhere in your book using `\@ref(fig:chunk-label)` and `\@ref(tab:chunk-label)`, respectively.
+Quotes on community:
+* thoughtful community based on lifting up and informing each other
+* Inclusive community
+* Unique set of people with a lot of things in common that supports each other and shares good stuff
 
-See Figure \@ref(fig:nice-fig).
+### 2) Creative/Weird/Fun
+Creative was the most used word, and it seemed to also encompass the idea of artistry and a sense of fun. Folks used words like: enthusiastic, humor, entertaining, exciting, making weird stuff for fun, playful, sharing fun things, sharing neat projects and weirdness. 
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center', fig.alt='Plot with connected points showing that vapor pressure of mercury increases exponentially as temperature increases.'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
+Some quotes around this theme: 
+	* 	Give creative, smart, good-hearted people a safe way to express themselves, connect with others, learn to share themselves with the world, and live fulfilling sustainable creative lives.
+	* 	A welcoming community for the best weirdos the internet has to offer
+	* 	A community of people who build good internet-related things (loosely defined). People who are humane and humorous. People who want to share things that they find joyful.
+	*   Creative, curious, KIND people. Safe space to explore ideas and thoughts about life and creative work!
+	*   take joy in the things around you; celebrate things that are cool; celebrate each other; assume good faith; it's OK to not be OK; fuck [elon / trump / DHH / tech-or-politics-adjacent weirdo of the week]
+	*   Making things. Remaining independent.
+	*   Knowledge & awareness; earnest love of the weird and silly; thoughtful and playful uses of technology (esp. The Internet); mutual respect and care 
 
-Don't miss Table \@ref(tab:nice-tab).
+### 3) Inclusivity and Openness 
+Words people used to describe the community around the idea that it’s open and inclusive. They also used words like: respect, friendly, helpful, encouragement, inviting, welcoming, inclusiveness. 
 
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(pressure, 10), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
+While the words inclusivity and openness were used, some also described the community being closed as part of this inclusivity. Some called it safe, a safe haven or safe space for expressing thoughts. Additionally others talked about it being also a place where there was privacy and also confidential-ish. 
+
+Quotes around inclusivity and openness: 
+	* 	Openness, curiosity, fun, belief that the internet can be a wonderful, creative place.
+	* 	Safe spaces, where people feel comfortable to be their true authentic selves. Inclusivity, where everyone is welcomed, seen and heard. Encouragement and support in all aspects of life, from local classifieds-type of sharing, to deeper and more personal concerns.
+	* 	having a safe community that supports each other
+
+### 4) Curiosity/Intelligence 
+Words people used to describe the value of curiosity include: insightful, interest, knowledge sharing, news sharing, resource sharing, resourcefulness, smart, thoughtful discussion, Curiosity, Interesting, learning, understanding, exploration. As we’ll see later, many folks said that the community was smart and that they appreciated the level of intelligence in discourse. 
+
+Quotes around curiosity and intelligence:
+	* 	Super bright people who are really nice and very tech savvy
+	* 	Smart creative folks sharing and helping each other.
+	* 	the confluence of curiosity, expertise and community
+	* 	low-stakes learning community
+	* 	Thoughtfully sharing highlights of the internet, commentary, empathy, joy, and advice
+	*   Interesting news, events, and discussions that I don’t find anywhere else
+
+### 4) Kindness and Empathy 
+The value of kindness and empathy took many forms: compassionate, helping, a caring community, connecting and nurturing, gentle, kind, wholesome-ness, earnest, empathy, integrity. 
+
+Quotes that discuss kindness: 
+	* Supportive & honest, and a kind place to be on the internet.
+	* Empathy. A safe space to act like a social network without worrying about the bad parts of the internet.
+	* Compassionate, empathetic, engaged community caring for each other’s creative pursuits to become more whole humans.
+	* Creativity and empathy driven kindness
+	Empathy and kindness centered willingness to be hyped up about almost anything
+	* caring and helpful 
+	* Empathy and creativity. We are people who have been brought together by caring about making things thoughtfully in community with others, and that if you are emotionally vulnerable about the difficulties of that journey it will be paid back with kindness and a sense of unity
+	* Kindness, patience, and passion.  Also, showing or trying for best practices for lots of things — inclusion, managing and sharing emotions appropriately  (the #bad-attitude channel), the reactji people added
+	
+
+### 5) Emotional Intelligence and Integrity 
+Folks seemed to convey a value in the community around emotional intelligence, though it wasn’t always named this. Some example phrases: acknowledgment of feelings, earnest good vibes, listening (before fixing). Getting consent, space for feeling feelings and witnessing others, meta communication, communication as a skill, keep the bad vibes in their own channels, 
+
+Similar sentiments could be found in a sense of integrity in the community such as words like Thoughtful, Respect, Respectful, civility, honesty, humanity, principled, respectful, sincerity. 
+
+Quotes: 
+	* 	Everyone is valuable and deserves to be treated with respect.
+	* 	Acceptance of others and their ideas. Breadth and diversity of userbase.
+	*   Mutual support/big sense of community , interest in others ideas, joy of sharing and supporting, doing our best to make sure everyone is thoughtfully heard and included
+
+### Overall Values Statements 
+Some folks shared phrases that seemed to be more general and to encompass several of the values above
+
+*   Collective hive-mind of support, creativity, appreciation for art with a set of overlapping societal principles that steer healthy moderation and a general openness to new dialogue or change.
+*   Be the internet you want to see in the world
+* 	a commitment to the good parts of the web
+* 	A like-minded community conscientious of etiquette, while encouraging curiosity and discovery without competing for popularity or ostracizing members.
+
+### Additional Quotes/Comments
+
+	* 	I don't know that there are strong core values that come from the slack itself. I think it is in many ways a reflection of the event rather than it's own community with a sense of identity
+	* 	To me, it was more than just a companion piece to the physical festival. I attended a few times, regretted not going the first year, and missed out on securing a spot in the last year. It was the crossroads of art, culture, and techology from a group of what felt like inclusionary, progressive and small "l" liberal people that agreed to operate under a code of conduct that emphasized politeness and kindness in a time when those things are not the norm (online or in public).
+	* 	Progressivism, humanism, and a love for all things indie
+
