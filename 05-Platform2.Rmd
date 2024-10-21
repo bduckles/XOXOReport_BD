@@ -1,0 +1,133 @@
+---
+title: "Platform2"
+output: html_document
+date: "2024-10-21"
+---
+
+# Platforms 
+
+We had several questions in the survey to talk about the attributes of the platform that folks wanted. 
+
+## Platform Options
+
+We asked people to tell us "Which of the following platforms would you most like to see the XOXO community migrate to?" Several options were pre-populated based on what had been suggested already in the Slack. 
+
+Below is a chart sharing the results: 
+
+```{r platform-plot, echo=FALSE, fig.height=6, fig.width=8}
+# Platform Data 
+
+library(googlesheets4)
+library(tidyverse)
+library(janitor)
+
+gs4_auth()
+
+k <- read_sheet("https://docs.google.com/spreadsheets/d/1jPKow4_vQ8CMUBfIYf_SyXNC-6hJNsg1AP0zcS-pOiY/edit?gid=386609990#gid=386609990", sheet = "PlatformCodes")
+
+k_plat <- k %>% 
+  select(Timestamp, Code) %>% 
+  filter(!is.na(Code)) %>%  # Remove rows where 'Code' is NA
+  separate_rows(Code, sep = ", ") %>% 
+  mutate(Code = case_when(
+    Code == "NoOpinion" ~ "No opinion on platform",
+    Code == "NotFam" ~ "Not familiar with options",
+    Code == "WillGo" ~ "Will go where group goes",
+    Code == "SelfHost" ~ "Any platform that is self hosted", 
+    Code == "DontLike" ~ "Dislike options", 
+    TRUE ~ Code
+  )) %>% 
+  arrange(Code) %>% 
+  count(Code, sort = TRUE) %>% 
+  arrange(desc(n))
+
+ggplot(k_plat, aes(x = fct_reorder(Code, n), y = n)) +
+  geom_bar(stat = "identity", fill = "blue") +  # Set the fill color to blue
+  geom_text(aes(label = n), 
+            hjust = -0.2,  # Adjust horizontal position of labels
+            size = 3) +     # Set the text size
+  coord_flip() +
+  labs(
+    title = "Platform Preferences Counts",
+    x = "Platform",
+    y = "Count"
+  ) +
+  theme_minimal() +
+  theme(
+    axis.text.y = element_text(size = 8),
+    plot.margin = margin(t = 20, r = 20, b = 20, l = 20)  # Adjust margins: top, right, bottom, left
+  )
+
+
+
+
+```
+
+
+By far the favorite was Discord, followed by Slack and Discourse. The question was multiple select, so folks voted for as many as they wanted and there is overlap in what people responded with. 
+
+Some folks wrote in to say that they didn't know the differences between the platforms, that they didn't have an opinion and that they would follow where the group would go. 
+
+
+
+## Computer vs. Mobile
+
+Some folks were curious to know how important mobile vs. computer usage would be for the platform. 
+
+```{r platform-plot, echo=FALSE, fig.height=6, fig.width=8}
+
+library(RColorBrewer)
+
+j<- read_sheet("https://docs.google.com/spreadsheets/d/1yeSmBHVX16hciEBfPRj376aNrC_UCvbY2gxbzBp1uzU/edit?resourcekey=&gid=1115108170#gid=1115108170")
+
+j_clean <- j %>% 
+  clean_names() %>% 
+  rename_with(~paste0("Q", seq_along(.)))
+
+j_cleaner <- j_clean %>% 
+  rename(
+    Timestamp = Q1,
+    Values = Q2, 
+    Appreciate = Q3,  
+    Concerns = Q4, 
+    Platform = Q5, 
+    CompMobile = Q6, 
+    OppPlat = Q7, 
+    ConcernPlat = Q8, 
+    Name = Q9, 
+    Impact = Q10, 
+    Andys = Q11, 
+    Else = Q12
+  )
+
+j_dat <- j_cleaner %>%
+  select(Timestamp, CompMobile)
+
+comp_counts <- j_dat %>%
+  filter(!is.na(CompMobile)) %>%
+  count(CompMobile) %>%
+  mutate(percentage = n / sum(n) * 100)  # Calculate percentages
+
+# Define a colorblind-friendly palette using RColorBrewer
+color_palette <- brewer.pal(n = 3, name = "Blues")
+
+
+ggplot(comp_counts, aes(x = "", y = n, fill = CompMobile)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y") +
+  geom_text(aes(label = paste0(round(percentage, 1), "%")), 
+            position = position_stack(vjust = 0.5)) +
+  scale_fill_manual(values = color_palette) +  # Apply the colorblind-friendly palette
+  labs(
+    title = "Distribution of Device Usage Preferences",
+    fill = "Device Usage"
+  ) +
+  theme_void() +  # Remove axes and background
+  theme(
+    legend.position = "right",
+    plot.margin = margin(t = 30, r = 30, b = 30, l = 30)  # Add padding: top, right, bottom, left
+  )
+
+
+```
+
