@@ -1,8 +1,3 @@
----
-title: "Platform2"
-output: html_document
-date: "2024-10-21"
----
 
 # Platforms 
 
@@ -14,7 +9,7 @@ We asked people to tell us "Which of the following platforms would you most like
 
 Below is a chart sharing the results: 
 
-```{r platform-plot, echo=FALSE, fig.height=6, fig.width=8}
+```{r platform-barchart, echo=FALSE, message = FALSE, fig.height=6, fig.width=8}
 # Platform Data 
 
 library(googlesheets4)
@@ -72,9 +67,9 @@ Some folks wrote in to say that they didn't know the differences between the pla
 
 ## Computer vs. Mobile
 
-Some folks were curious to know how important mobile vs. computer usage would be for the platform. 
+Some folks were curious to know how important mobile vs. computer usage would be for the platform. We can see clearly from the chart that most people use both, and so functionality on both mobile and computers is important. 
 
-```{r platform-plot, echo=FALSE, fig.height=6, fig.width=8}
+```{r platform-piechart, echo=FALSE, message = FALSE, fig.height=6, fig.width=8}
 
 library(RColorBrewer)
 
