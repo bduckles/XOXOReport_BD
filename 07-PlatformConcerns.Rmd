@@ -1,0 +1,293 @@
+
+# Platform Concerns
+
+We asked people "What concerns (if any) do you have about moving to a new platform(s)?" 
+
+
+## Overall Concerns
+
+We had a number of overall concerns about a new platform or platforms that the group might move to. 
+
+### Folks will Disperse 
+
+The fear we heard the most was that folks in the community would disperse. Folks again used language like fragmentation, splintering and more.  
+
+
+* strong opinions about platforms driving fragmentation
+* Splintering of the community, losing people
+* That we lose people or that communities fragment or splinter. Maybe that's ok?
+* It seems inevitable that some splintering will occur.
+* Loss of participation and splintering of interests / groups. Having yet another place to track (I belong to a lot of * slack communities and use it at work, so it’s a natural part of my day. I tried with Discord, but they always fizzle * out).
+* My concerns about a (possible) platform migration are that 1) we fracture across multiple and not everybody makes it to a single new place, and 2) the group settles on an OSS solution that I have to jam into my life. I already have enough software to deal with in this mortal coil, I would like to avoid adding a piece of ugly, user-hostile OSS into that mess.
+* losing people from inertia and from the learning curve of a new technology
+* We seem likely to lose a lot of folks, particularly if we pick an obscure platform
+* we'd lose people in the transition without a path for XOXO community members to join in future
+* Fragmentation of the user base
+* community drift, or worse, schism. Or dissuaded by poor software
+
+
+### Loss of Network 
+
+Folks were very fearful of losing people or folks not following to the new platform. Among the ways this was phrased: 
+
+* I don't want to lose people (now or in the future)
+* General worries that people won’t follow
+* Splintering of the community, losing people
+* Unavoidable, but we're going to lose a significant number of folks
+* If everyone will go
+* Losing the focus and purpose and user-base.
+* Loss of members
+* Losing lots of users
+* Not being able to bring many folks with it
+* Loss of the supportive, diverse community
+* Loosing stragglers
+* Fragmentation of the user base
+* Who will join the new platform?
+* We will lose a large number of users that are sometimes-posters
+* just getting everybody there
+* Unintentionally leaving some folks behind
+
+Some folks talked a little more about these concerns
+
+* I think moving to a new platform could have a lot of friction that causes the existing membership to shrink dramatically. I think that's especially true if the new platform is particularly complex, difficult to learn, or has limited support on people's platforms of choice.
+* It is probably impossible to move the near-decade of history to a new place without losing something
+* Learning curve and difficulty learning new interface. Loss of community as a result of friction.
+* It seems inevitable that some splintering will occur.
+* too much attrition due to learning a new platform and having to build new behaviors
+* That the learning curve will cause me to drop off and that the community will get a lot smaller. It's going to feel different and that scares me, though if we are able to have weekly summaries of what is being discussed, that would make everything a lot less scary and overwhelming.
+* losing people from inertia and from the learning curve of a new technology
+* We seem likely to lose a lot of folks, particularly if we pick an obscure platform
+* we'd lose people in the transition without a path for XOXO community members to join in future
+* That it would be too different and people may no longer feel comfortable as a result, and reduce/end their involvement as a result.
+* lose people who only occasionally check-in, hope there is a generous window or an opportunity to validate that you went to xoxo with no expiration
+
+Some feared the loss would be driven by bad software: 
+
+* community drift, or worse, schism. Or dissuaded by poor software
+* Inevitably, not everyone will move to the same platform.
+* Losing a lot of people no matter where we go; having a hard time following threads in Discord
+* drop off of people who don't go to the new platform. Friction on the new platform that makes people not want to use it.
+* Losing people along the way. Adding another piece of software to my rotation.
+* That we would lose people in the transition, particularly if it’s difficult to use. Installing yet another app on my phone.
+* Loss of participation and splintering of interests / groups. Having yet another place to track (I belong to a lot of slack communities and use it at work, so it’s a natural part of my day. I tried with Discord, but they always fizzle out).
+
+Some folks also remarked that they had fears, but maybe it'd be ok:
+
+* Losing too many community members, but also it might be ok.
+* That we lose people or that communities fragment or splinter. Maybe that's ok?
+
+
+### Unfamiliarity with a New Platform
+
+The task of a new platform being unfamiliar was a real concern for a number of folks.
+
+* Onboarding/getting folks used to the platforms. Folks feeling apprehensive to move to a new platform because of effort and overwhelm. People not being aware of the new platform existing (I trust y’all to try and reach everyone to communicate the news, though!)
+* Myself or my peers not knowing how to use it
+* UI is hard for me. Discord is hard for me to keep up with - the lack of threading is really hard
+* Learning a new platform can be asking a lot. Slack is easy. I'm open to anything I have anxiety around navigating a new space regardless of platform
+* I think moving to a new platform could have a lot of friction that causes the existing membership to shrink dramatically. I think that's especially true if the new platform is particularly complex, difficult to learn, or has limited support on people's platforms of choice.
+* drop off of people who don't go to the new platform. Friction on the new platform that makes people not want to use it.
+* Discord threading is not ideal. People new to Discord may need guidance to customize it. New platforms will inevitably lose some people in the transition.
+* I wouldn't want the major platform decisions to alienate members of the community. I like the old nerd tilde.club-style social tech, but only a minority of our community would be willing to participate in that, and many just can't. I support the accessibility needs of the community and recognize the importance of mobile clients. As much as I would enjoy tech more open and less dependent upon capitalists, a fully hosted solution might be the only pragmatic choice that is as inclusive as we need it to be.
+* If it's a new app that I don't already use, I'm very unlikely to download it or use it with any regularity
+* It feels like Discord is the obvious choice, and maybe the right one for the bulk of the community. But I personally find Discord incredibly difficult and confusing to use, and almost certainly would drop off if that’s where xoxo goes. Which, fine, my needs don’t get to trump broader needs, but it makes me sad.
+* Most of my communities are Slack-based, so I'm going to have to get to used to something new
+* Learning curve and difficulty learning new interface. Loss of community as a result of friction.
+* The platform being clumsy and not as fun. Privacy and data ownership. Data portability.
+* I find Discord to be much more confusing than Slack, but would migrate to follow the community. Tbh there's a non-zero chance I would fall off after a few months. I found my way back to XOXO Slack after a few years away and was very grateful that the basic setup/layout stayed the same. I hope we don't migrate again once the new platform is found!
+* Losing people along the way. Adding another piece of software to my rotation.
+* i won't download a new app to my phone. so i am mostly concerned about moving to something that does not have a browser option
+* Onboarding/getting folks used to the platforms. Folks feeling apprehensive to move to a new platform because of effort and overwhelm. People not being aware of the new platform existing (I trust y’all to try and reach everyone to communicate the news, though!)
+* That the learning curve will cause me to drop off and that the community will get a lot smaller. It's going to feel different and that scares me, though if we are able to have weekly summaries of what is being discussed, that would make everything a lot less scary and overwhelming.
+* That we would lose people in the transition, particularly if it’s difficult to use. Installing yet another app on my phone.
+* the community is made of a lot of technically competent people, and I worry that our new technology will be too cumbersome to be a part of our everyday life.  With the fracturing of social media there's already too many things to check.
+* Loss of participation and splintering of interests / groups. Having yet another place to track (I belong to a lot of slack communities and use it at work, so it’s a natural part of my day. I tried with Discord, but they always fizzle out).
+* My concerns about a (possible) platform migration are that 1) we fracture across multiple and not everybody makes it to a single new place, and 2) the group settles on an OSS solution that I have to jam into my life. I already have enough software to deal with in this mortal coil, I would like to avoid adding a piece of ugly, user-hostile OSS into that mess.
+* I'm going to have to download yet another app.
+* It won't be as easy to access or read on mobile. That I will lose access because I don't post.
+* losing people from inertia and from the learning curve of a new technology
+* We seem likely to lose a lot of folks, particularly if we pick an obscure platform
+* Nothing specific other than the mental overhead
+* Honestly if it's significantly less convenient (I use slack for work) then I don't think I'll read or contribute to it as much
+* ADHD will be too challenging
+* Learning a new platform might cause friction that drives pepole away.
+* Friction in moving to new platform; degraded experience on either desktop or mobile
+
+
+### Loss of Resources 
+
+Some folks addressed their concerns about losing resources we have. 
+
+* Losing core functionality (like threading) that has helped structure the space.  Biggest concern would be whether we can keep the vibe alive. Good, kind-hearted humans helping and supporting each other, and sharing information that is vetted and trustworthy. I also worry about moving to a platform that's going to shut down sooner rather than later.
+* feeling like its the same community even if its in a new space (e.g. is this a place where I'd complain about ants to? celebrate wins with? post cat pics in?)
+* Loss of access to old posts, media, etc.
+
+
+### Governance and Moderation 
+
+Several folks shared their concerns around governance. 
+
+* What is the governance?
+* being too insular and rigid, allowing the community to evolve
+* The loudest voices over powering the majority, the community petering out, not deciding where to move and splintering
+
+Specifically folks were concerned about the workload for volunteers and making sure that the volunteers don't burn out and that the vibes stay
+
+* Making sure moderation and vibes stay
+* Not everyone migrating, lack of moderation possibly, not being default might mean people will be less active
+* The organisation and moderation of the slack was impeccable, it’ll take a while to migrate that to a new platform, especially without the two Andy’s as guide posts
+* Moderation, keeping to the XOXO Slack code of conduct
+* Lack of moderation tools, loss of asynchronous discussion
+* Choosing one that doesn’t provide the admin/moderation tools we need to run it the best way for our community
+* The moderation
+* Moderation. XOXO has always been The Andy's Place, so playing by their rules and the community norms that emerged from that starting point made it seem like things were already sorted out by the time I joined in 2017. But who makes those decisions, and how, once we are in The Next Place will be curious.
+* The level of (likely invisible) labor required to actively moderate the community and how to make it sustainable
+* we need strong, trusted moderators
+* organizer burnout; admin tax (if maintaining the software); paid moderation
+* Impact on facilitators/moderators
+* Maintaining a community is hard, and we'll be losing the physical space binding XOXO together. I'm particular concerned about volunteer moderator burnout.
+* the community is made of a lot of technically competent people, and I worry that our new technology will be too cumbersome to be a part of our everyday life.  With the fracturing of social media there's already too many things to check.
+
+
+### Corporations and Money 
+
+Folks had concerns about corporate platforms and what those platforms might mean for the members of the community. 
+
+* Locking into another potentially unstable, objectionable corporate platform
+* Moving to another corporate platform like Discord of course has its risks. Their monitezation hooks are already obnoxious, but it still feels like the best fit for this community. I also worry about the opposite problem of persuing an open source/self hosted platform that is frustrating/alienating to use for most people. Doesn't feel like there are any perfect soluations out there, so we just have to make the best decision we can.
+* Longevity. Newer platforms sound promising but we all know how easily things can be shut down without notice
+* I wouldn't want the major platform decisions to alienate members of the community. I like the old nerd tilde.club-style social tech, but only a minority of our community would be willing to participate in that, and many just can't. I support the accessibility needs of the community and recognize the importance of mobile clients. As much as I would enjoy tech more open and less dependent upon capitalists, a fully hosted solution might be the only pragmatic choice that is as inclusive as we need it to be.
+* Opening to new users thoughtlessly, vulnerability to changing priorities from platform owners
+* Losing core functionality (like threading) that has helped structure the space.  Biggest concern would be whether we can keep the vibe alive. Good, kind-hearted humans helping and supporting each other, and sharing information that is vetted and trustworthy. I also worry about moving to a platform that's going to shut down sooner rather than later.
+* Discord and corporate platforms will enshittify
+
+
+Some also talked about issues around money and the costs 
+
+* Potential costs (and entities formed to cover those costs), platform rug-pulls.
+* I am deeply distrustful of commercial platforms. I have seen their attempts to monetize destroy communities.  I have some concern that a platform change could lead to some culture change.
+
+
+
+
+
+### Loss of XOXO Spirit 
+
+Folks were concerned about losing the special something that comes from the XOXO community. 
+
+* I wouldn't want the major platform decisions to alienate members of the community. I like the old nerd tilde.club-style social tech, but only a minority of our community would be willing to participate in that, and many just can't. I support the accessibility needs of the community and recognize the importance of mobile clients. As much as I would enjoy tech more open and less dependent upon capitalists, a fully hosted solution might be the only pragmatic choice that is as inclusive as we need it to be.
+* Loss of the supportive, diverse community
+* Losing the vibe?  The Andys?  I hope they join the new platform, too.
+* Having to rebuild a culture around new ways of doing things
+* It is probably impossible to move the near-decade of history to a new place without losing something
+* Making sure moderation and vibes stay
+* Losing all of the emojis.
+* I am deeply distrustful of commercial platforms. I have seen their attempts to monetize destroy communities.  I have some concern that a platform change could lead to some culture change.
+* Choosing one that doesn’t provide the admin/moderation tools we need to run it the best way for our community
+* too much attrition due to learning a new platform and having to build new behaviors
+* Losing core functionality (like threading) that has helped structure the space.  Biggest concern would be whether we can keep the vibe alive. Good, kind-hearted humans helping and supporting each other, and sharing information that is vetted and trustworthy. I also worry about moving to a platform that's going to shut down sooner rather than later.
+* feeling like its the same community even if its in a new space (e.g. is this a place where I'd complain about ants to? celebrate wins with? post cat pics in?)
+* That it would be too different and people may no longer feel comfortable as a result, and reduce/end their involvement as a result.
+
+
+### Fears Around Newcomers 
+
+Some folks shared the challenges that would be associated with bringing new folks into the community. 
+
+* Opening to new users thoughtlessly, vulnerability to changing priorities from platform owners
+* the balance between stagnation and leaving the door open to assholes.
+* Maintaining the community while continuing to grow in a considered way.
+* Privacy and safety. Also, do we limit membership to folks already in the Slack? (I personally prefer this)
+
+
+
+
+## Platform Functions 
+
+### Threading 
+
+The function of threading in the platform emerged as a really key component of what the community needs. 
+
+* UI is hard for me. Discord is hard for me to keep up with - the lack of threading is really hard
+* Losing a lot of people no matter where we go; having a hard time following threads in Discord
+* Discord threading is not ideal. People new to Discord may need guidance to customize it. New platforms will inevitably lose some people in the transition.
+* Threading is so important
+* Having threads and a good search
+* I really like the interest-specific channels and the threads, so people can skim or go in depth
+* Lack of moderation tools, loss of asynchronous discussion
+* Losing core functionality (like threading) that has helped structure the space.  Biggest concern would be whether we can keep the vibe alive. Good, kind-hearted humans helping and supporting each other, and sharing information that is vetted and trustworthy. I also worry about moving to a platform that's going to shut down sooner rather than later.
+
+### Privacy 
+
+* "the medium is the message" that a different format will change the vibe significantly. Privacy, would want a non-public space (ie not twitter)
+* Privacy balanced with re-connecting with my Slack friends. I remember real names more than anonymous usernames. But like others, I have several usernames on other platforms: public, private, and professional. I’d like to avoid managing throwaway accounts in order to avoid doxxing.
+* The platform being clumsy and not as fun. Privacy and data ownership. Data portability.
+* Privacy and safety. Also, do we limit membership to folks already in the Slack? (I personally prefer this)
+
+### Additional Platform Functions
+
+* It's nice to be able to see an account to a real person (like even if they use an alias/not their given name, the alias is consistent IRL/online). One issue I've had in other big Discords is someone will have a big or personal ask (ex: looking for roommates or even meeting up at an event), but ALL of their personally identifiable information is hidden and I have no idea who this anonymous asker is, as much as I would like to help or connect. Also I really hate Discord threading.
+* Having threads and a good search
+
+
+## Platform Specific Discussions 
+
+## Discord 
+
+Folks had opinions about Discord both for and against. 
+
+### Pro for Discord 
+
+* Please let's just move to Discord and copy over the channels exactly. Let's keep this simple.
+* I really don’t want us to try and spin up our own bespoke solution - having been part of many communities that tried to do that, the maintainer burden is very high and retention starts to drop fast. Let’s stick with a solution that’s built and has a dedicated (paid ) team behind it, like Discord or Slack.
+
+### Cons for Discord 
+
+* UI is hard for me. Discord is hard for me to keep up with - the lack of threading is really hard
+* Discord and Zulip are both an absolute nightmare from a UI & UX perspective. You can't really leave channels in Discord.
+* Losing a lot of people no matter where we go; having a hard time following threads in Discord
+* Discord threading is not ideal. People new to Discord may need guidance to customize it. New platforms will inevitably lose some people in the transition.
+* I really hate discord
+* Discord seems harder to understand and use than Slack.
+* It feels like Discord is the obvious choice, and maybe the right one for the bulk of the community. But I personally find Discord incredibly difficult and confusing to use, and almost certainly would drop off if that’s where xoxo goes. Which, fine, my needs don’t get to trump broader needs, but it makes me sad.
+* Discord
+* I find Discord to be much more confusing than Slack, but would migrate to follow the community. Tbh there's a non-zero chance I would fall off after a few months. I found my way back to XOXO Slack after a few years away and was very grateful that the basic setup/layout stayed the same. I hope we don't migrate again once the new platform is found!
+* I hate Discord so much and find it unusable.
+* Loss of participation and splintering of interests / groups. Having yet another place to track (I belong to a lot of slack communities and use it at work, so it’s a natural part of my day. I tried with Discord, but they always fizzle out).
+* Discord and corporate platforms will enshittify
+
+
+
+
+
+
+
+## Slack
+
+Folks shared their pros for using Slack in the future. 
+
+### Pros for Slack 
+
+* Learning a new platform can be asking a lot. Slack is easy. I'm open to anything I have anxiety around navigating a new space regardless of platform
+* I'm used to Slack, for all its problems ... I'm worried we will overestimate our community's desire to run/manage something bespoke (I think we should use a hosted service for sure)
+* I really don’t want us to try and spin up our own bespoke solution - having been part of many communities that tried to do that, the maintainer burden is very high and retention starts to drop fast. Let’s stick with a solution that’s built and has a dedicated (paid ) team behind it, like Discord or Slack.
+* I find Discord to be much more confusing than Slack, but would migrate to follow the community. Tbh there's a non-zero chance I would fall off after a few months. I found my way back to XOXO Slack after a few years away and was very grateful that the basic setup/layout stayed the same. I hope we don't migrate again once the new platform is found!
+* Loss of participation and splintering of interests / groups. Having yet another place to track (I belong to a lot of slack communities and use it at work, so it’s a natural part of my day. I tried with Discord, but they always fizzle out).
+* Honestly if it's significantly less convenient (I use slack for work) then I don't think I'll read or contribute to it as much
+
+
+## OSS 
+
+Folks talked about the downsides for doing an open source software (OSS) package
+
+### Cons for OSS 
+
+* Moving to another corporate platform like Discord of course has its risks. Their monitezation hooks are already obnoxious, but it still feels like the best fit for this community. I also worry about the opposite problem of persuing an open source/self hosted platform that is frustrating/alienating to use for most people. Doesn't feel like there are any perfect soluations out there, so we just have to make the best decision we can.
+* I'm used to Slack, for all its problems ... I'm worried we will overestimate our community's desire to run/manage something bespoke (I think we should use a hosted service for sure)
+* I really don’t want us to try and spin up our own bespoke solution - having been part of many communities that tried to do that, the maintainer burden is very high and retention starts to drop fast. Let’s stick with a solution that’s built and has a dedicated (paid ) team behind it, like Discord or Slack.
+* the community is made of a lot of technically competent people, and I worry that our new technology will be too cumbersome to be a part of our everyday life.  With the fracturing of social media there's already too many things to check.
+* My concerns about a (possible) platform migration are that 1) we fracture across multiple and not everybody makes it to a single new place, and 2) the group settles on an OSS solution that I have to jam into my life. I already have enough software to deal with in this mortal coil, I would like to avoid adding a piece of ugly, user-hostile OSS into that mess.
+* We seem likely to lose a lot of folks, particularly if we pick an obscure platform
+* community drift, or worse, schism. Or dissuaded by poor software
+
+
