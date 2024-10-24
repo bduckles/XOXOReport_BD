@@ -6,12 +6,12 @@ lower-your-expectations
 the-overwhelm
 gift
 community-values
-community
-creativeweirdfun
-inclusivity-and-openness
-curiosityintelligence
 kindness-and-empathy
+creativity
+inclusivity
+curiosity
 emotional-intelligence-and-integrity
+community
 overall-values-statements
 additional-quotescomments
 appreciation-for-the-community
@@ -41,7 +41,7 @@ this-slack-is-different
 slack-as-a-third-space
 concerns-about-new-platforms
 new-leadership
-needs-for-types-of-community-members
+community-needs
 mental-health-and-well-being
 people-who-lurk
 newcomers
@@ -90,7 +90,7 @@ personal-growth
 conversations
 specific-channels
 portland-1
-creativity
+creativity-1
 care-during-hard-times
 covid
 mental-health
