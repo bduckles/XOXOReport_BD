@@ -97,6 +97,13 @@ slack
 pros-for-slack
 oss
 cons-for-oss
+name
+top-contenders
+other-thoughts
+inside-jokes
+comments
+dont-care
+variations-on-xoxo
 impact
 quality-of-the-community
 an-example-of-community
