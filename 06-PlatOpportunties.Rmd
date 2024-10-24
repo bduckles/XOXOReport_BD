@@ -1,0 +1,246 @@
+
+# Platform Opportunities
+
+We asked people "What opportunities (if any) do you think exist in moving to a new platform(s)? " 
+
+
+## Global Comments 
+
+Some of the global/overall comments seem helpful to start with because there's some clarity that the community has a lot of existing capacity to create something new. 
+
+* We can see the whole community at a high-level and filter out what we know, after 5 years, what does and doesn't work. More importantly, we're on a deadline to gather and consolidate the collective desires in our interactivity and how our interests overlap.
+* There are many people in the XOXO community interested in and capable of innovating the design and maintenance of social spaces, and it's compelling to think that we could use the community tooling itself as a playground for this community, both for fun and for reinforcing the values and interests of the community. If we're careful to be inclusive (e.g. have a baseline offering that most people can use to find others), this could take the form of an evolving set of multiple connected tools and sub-communities.
+* Longevity. Salesforce buying Slack curbed its innovation long-term. From experience, every SF acquisition eventually favors B2B SaaS clients so eventually it will push out communities like XOXO. I don’t love Discord, but its adoption by niche active gaming communities almost guarantees future updates and support. 
+* A lot of the talks at this year's festival acknowledged that we can have nostalgia for the early internet, but we can't go back. Moving to a new platform is part of the work of finding new paradigms (I'm sorry I said paradigm) to be creative and happy on the internet. We'll be actually doing the messy work of moving forward with our values.
+* "moving away from XOXO-centric opens the door for mindful expanse of the group beyond ""I got lucky in a lottery and had money/time to spare that year""
+* I think it also makes it more likely we'll see meaningfully active local groups which seems like a fun bonus"
+* "For all the concerns I shared around losing the connection to the Andys or the physical events, having something the community feels ownership over feels arguably more values-aligned with XOXO than the existing model.
+* Although there are people who dislike Discord for valid reasons, I also do think it is legitimately a better tool for fostering community than Slack, and would be excited to see us adopt a tool earnestly meant for social communities instead of coopting a business tool."
+
+
+## Community Shifts 
+
+A number of the comments that we saw talked about the way that these moves could have positive impacts on the community. 
+
+### Expansion of the Community 
+
+The community could begin to bring more folks into it and to expand to focus on more folks. 
+
+* I’d love to invite trusted friends who could benefit from and add to the culture of this space.
+* fluidly filling a new container, adapting slack culture to a new space
+* Looking outside XOXO for like-minded people. It was the beacon or lighthouse that attracted us but I know there are more people that could be invited outside the physical connection of a (sadly, of course!) defunct festival in Oregon.
+* Oops, guess I answered this in the previous answer. TLDR: making something  beyond XOXO while still staying true to its ethos. Like a vampire, I crave new blood.
+* growing more than one small community
+* "moving away from XOXO-centric opens the door for mindful expanse of the group beyond ""I got lucky in a lottery and had money/time to spare that year""
+* I think it also makes it more likely we'll see meaningfully active local groups which seems like a fun bonus"
+* It’s not really platform-specific but, I like the idea that it might be possible to admit some adjacent people who weren’t eligible before (e.g., XOXO attendees from before the slack existed).
+* Fresh starts, chance to bring in new people and spread our ethos
+* Being able to grow the community. I am sure there are plenty of kind, thoughtful, and creative people who would fit in.
+
+
+### Evolution of the Community 
+
+Others also talkeda bout the ways that the community itself could evolve and get more engaged. 
+
+* tighter-knit community
+* The potential for adding new users over time for ongoing evolution
+* There are many people in the XOXO community interested in and capable of innovating the design and maintenance of social spaces, and it's compelling to think that we could use the community tooling itself as a playground for this community, both for fun and for reinforcing the values and interests of the community. If we're careful to be inclusive (e.g. have a baseline offering that most people can use to find others), this could take the form of an evolving set of multiple connected tools and sub-communities.
+* I’m not sure, but am happy to evolve
+* Gathering up a new mix of people, hopefully including others who were not previously active. Making space for the next incarnation —  more freedom and authenticity, less nostalgia and baggage.
+* Being able to grow the community. I am sure there are plenty of kind, thoughtful, and creative people who would fit in.
+Potentially using different technologies to facilitate different flavors of conversation.
+* Keeping the community going!
+* Self sufficiency. The Andys have created something truly wonderful and it is time for us to take on the joy/duty of caring for it.
+* Moving to where other communities tend to be
+
+### Community Refresh 
+
+Some folks talked about wanting a refresh in the community, to redefine and to reimagine ourselves as a community. 
+
+* Fresh start in leadership and moderation.
+* I think it would be nice to start anew – 10 years is a long time for a slack, and many channels have become quite stagnant. I'd love for a realignment of channels focused on things people are into right now.
+* It's a nice time to discuss likes/dislikes, implement new ideas, and refresh policies.
+* A fresh community start. Possibly inviting new people who share the same values and excitement, but never were able to attend or get picked for XOXO.
+* freedom from the planet-destroying idea that every single message ever sent MUST be archived
+* We get to drop some of the baggage that made the community inaccessible to newcomers. I also think we get a slight cultural reset. I’ve gotten a couple of passive aggressive DMs about threading — I *really* hope that behavior gets left on Slack.
+* Revive some of the quieter subgroups. Merge and rearrange the #topic-list.
+* Fresh starts, chance to bring in new people and spread our ethos
+* We can redefine ourselves outside of the conference. Maybe it will give us a purpose.
+* potentially restructuring channels, finding new ways for channels to be visible. I really like discord's way of grouping channels
+* Gathering up a new mix of people, hopefully including others who were not previously active. Making space for the next incarnation —  more freedom and authenticity, less nostalgia and baggage.
+* might inspire people to be active again and rediscover it.
+
+
+### Intentionality
+
+Folks talked about the intentionality of this community and how using that skill could be a helpful bonus to decide what's next.  
+
+* having to deliberately make new community events instead of just hoping for another XOXO conference
+* It's a nice time to discuss likes/dislikes, implement new ideas, and refresh policies.
+* There are many people in the XOXO community interested in and capable of innovating the design and maintenance of social spaces, and it's compelling to think that we could use the community tooling itself as a playground for this community, both for fun and for reinforcing the values and interests of the community. If we're careful to be inclusive (e.g. have a baseline offering that most people can use to find others), this could take the form of an evolving set of multiple connected tools and sub-communities.
+* Better defining values and what we want the community to be going forward
+* Be more intentional in what we expect from this community.
+* An explicit documentation of our values
+* Fresh starts always have some benefit - especially if one is thoughtful about it.
+* Self sufficiency. The Andys have created something truly wonderful and it is time for us to take on the joy/duty of caring for it.
+* Intentionally strengthening the communities around channels that we realize are important to us and we’d miss.
+
+
+### Opportunities from Decentralization 
+
+Some folks also specifically talked through the ways that a decentralized 
+
+* fluidly filling a new container, adapting slack culture to a new space
+* Splitting into smaller, more focused groups
+* Fresh starts, chance to bring in new people and spread our ethos
+* Segmenting user interests. Indie web already has a slack, maybe some channels would like to know about slack winding down and form their own small sub communities?
+
+### Reorganizing 
+
+Some also spoke about reorganizing some of the less used slack channels 
+
+* Reorganizing channels
+* Better categorization really
+* Revive some of the quieter subgroups. Merge and rearrange the #topic-list.
+* Segmenting user interests. Indie web already has a slack, maybe some channels would like to know about slack winding down and form their own small sub communities?
+* potentially restructuring channels, finding new ways for channels to be visible. I really like discord's way of grouping channels
+
+
+### Moderation 
+
+There was a discussion around the needs for talking moderation, tools to use and better enable community.  
+
+* Spread around the responsibility for maintenance, moderation, funding
+* There might be a way to federate the content so it isn’t one single burden to store?
+* Spread around the responsibility for maintenance, moderation, funding
+* Fresh start in leadership and moderation.
+* Discord is cheaper for one for all of us to maintain, but we’d have to establish a moderation team
+* better tools for moderation and virtual hangouts
+* Better moderation and better interface for writing
+* Discord offers better community moderation tools, bots, forum style boards, and more
+* I just chat, so I'm not really tuned into the mod side of things.
+
+
+### Creating a Sustainable Community 
+
+Folks talked about the sustainability of the community as a part of what we're moving into and the importance of making sure that it's possible for the group to go where it makes sense to go. 
+
+* The Andys are/were ideal benevolent dictators, but obviously that took its toll. I’d love to maintain the pattern but make it more sustainable.
+* Self sufficiency. The Andys have created something truly wonderful and it is time for us to take on the joy/duty of caring for it.
+* Mainly avoiding getting the rug yanked out from under us at any second (eg Suddenly, A Massively Expensive Slack Plan)
+* Longevity. Salesforce buying Slack curbed its innovation long-term. From experience, every SF acquisition eventually favors B2B SaaS clients so eventually it will push out communities like XOXO. I don’t love Discord, but its adoption by niche active gaming communities almost guarantees future updates and support.
+* Discord servers are easy to join once you have an account, so the community won’t dwindle away
+* the opportunity to make an online community sustainable over time
+
+
+
+## Newness 
+
+Some folks talked about ways this shift could create opportunities for new ideas, new people, new events.  
+
+### New Energy 
+
+At first we might consider the new energy that this would create 
+
+* I think it would be nice to start anew – 10 years is a long time for a slack, and many channels have become quite stagnant. I'd love for a realignment of channels focused on things people are into right now.
+* It's a nice time to discuss likes/dislikes, implement new ideas, and refresh policies.
+* There are many people in the XOXO community interested in and capable of innovating the design and maintenance of social spaces, and it's compelling to think that we could use the community tooling itself as a playground for this community, both for fun and for reinforcing the values and interests of the community. If we're careful to be inclusive (e.g. have a baseline offering that most people can use to find others), this could take the form of an evolving set of multiple connected tools and sub-communities.
+* Oops, guess I answered this in the previous answer. TLDR: making something  beyond XOXO while still staying true to its ethos. Like a vampire, I crave new blood.
+* Possibly more control, ability to try and enjoy something new
+* Fresh starts always have some benefit - especially if one is thoughtful about it.
+
+### New People 
+
+And many folks wanted to invite trusted people into the community and to be able to welcome them in carefully. 
+
+* I’d love to invite trusted friends who could benefit from and add to the culture of this space.
+* The potential for adding new users over time for ongoing evolution
+* Being able to welcome more people into the community—though that has to be done carefully as well.
+* A fresh community start. Possibly inviting new people who share the same values and excitement, but never were able to attend or get picked for XOXO.
+* Open to new members
+* Looking outside XOXO for like-minded people. It was the beacon or lighthouse that attracted us but I know there are more people that could be invited outside the physical connection of a (sadly, of course!) defunct festival in Oregon.
+* Opening to new users thoughtfully
+* Opening the community beyond XO attendees
+* Figuring out a process to invite like-minded people who haven't been to XOXO
+* "moving away from XOXO-centric opens the door for mindful expanse of the group beyond ""I got lucky in a lottery and had money/time to spare that year""
+* I think it also makes it more likely we'll see meaningfully active local groups which seems like a fun bonus"
+* Self hosted data, possibly opening to new people (XOXOers before 2014 aren't on the Slack, for example)
+* It’s not really platform-specific but, I like the idea that it might be possible to admit some adjacent people who weren’t eligible before (e.g., XOXO attendees from before the slack existed).
+* Fresh starts, chance to bring in new people and spread our ethos
+* Gathering up a new mix of people, hopefully including others who were not previously active. Making space for the next incarnation —  more freedom and authenticity, less nostalgia and baggage.
+* opportunity to build strong ways of vetting & bringing in new members to the community
+
+### New Resources 
+
+Folks also wanted to make sure that the connections and resources could be central.  
+
+* Have a directory to the URLs of all the brilliant shared projects, resources, show and tells etc.
+* Other types of interaction/ collaboration?
+* Segmenting user interests. Indie web already has a slack, maybe some channels would like to know about slack winding down and form their own small sub communities?
+* New ways to interact with each other.
+
+### New Events 
+
+A few folks talked about the possibility of events. 
+
+* having to deliberately make new community events instead of just hoping for another XOXO conference
+* New community-centric features that slack didn't offer. More regular events that are easier to organize than a large conference
+
+
+
+
+
+## Specific Features 
+
+Folks brought up the ways in which new platforms could offer new features that could enhance the community. From voice chat, to community moderation tools to more archival capabilities. 
+
+* Slack is a business tool by design, so some community features common on other platform are missing. (muting keywords, ignoring people, reporting folks, etc)
+* New community-centric features that slack didn't offer. More regular events that are easier to organize than a large conference
+* If Discord, there are a variety of bots/tools to help with roles/moderation/labels. Also, voice and video chatting could provide new community spaces.
+* Better moderation and better interface for writing
+* trying out new formats can be fruitful
+* Discord offers better community moderation tools, bots, forum style boards, and more
+* Private channels could have their own separate communities maybe?
+* Moving to discord would allow us to have streaming or voice discussions in a much more visible way than slack, otherwise I'm pretty interested in what different features other platforms offer (I just don't know enough about them to vote for them).
+* There might be a way to federate the content so it isn’t one single burden to store?
+* Honestly I’m most excited about Discord because it has built in group voice chat rooms
+* Better options to categorize and save resources
+* Mainly just keeping it alive, and any potential features that might improve the experience, but I have no specifics.
+* Some of the new platforms are really nice and fun.
+* increased privacy protection, hosting our own data, having a forum space that is not real-time
+* Possible easier video / voice chats?  Not sure if that's what people (or even I) would need, but might make it easier for groups to get together.
+* Better channel discoverability, avenues for intentional archival (e.g. community cookbook)
+* Potentially using different technologies to facilitate different flavors of conversation.
+
+
+
+## Pros to using Discord
+
+Folks also talked about the benefits of using Discord. 
+
+* Longevity. Salesforce buying Slack curbed its innovation long-term. From experience, every SF acquisition eventually favors B2B SaaS clients so eventually it will push out communities like XOXO. I don’t love Discord, but its adoption by niche active gaming communities almost guarantees future updates and support.
+* Discord offers better community moderation tools, bots, forum style boards, and more
+* Moving to discord would allow us to have streaming or voice discussions in a much more visible way than slack, otherwise I'm pretty interested in what different features other platforms offer (I just don't know enough about them to vote for them).
+* Discord servers are easy to join once you have an account, so the community won’t dwindle away
+* "For all the concerns I shared around losing the connection to the Andys or the physical events, having something the community feels ownership over feels arguably more values-aligned with XOXO than the existing model.
+* Although there are people who dislike Discord for valid reasons, I also do think it is legitimately a better tool for fostering community than Slack, and would be excited to see us adopt a tool earnestly meant for social communities instead of coopting a business tool."
+* Honestly I’m most excited about Discord because it has built in group voice chat rooms
+* I use Discord more
+* potentially restructuring channels, finding new ways for channels to be visible. I really like discord's way of grouping channels
+* If Discord, there are a variety of bots/tools to help with roles/moderation/labels. Also, voice and video chatting could provide new community spaces.
+
+
+
+## No/Don't Know 
+
+* Minimal if any
+* ¯\_(ツ)_/¯
+* Stay as it is, please :)
+* IDK!
+* I just chat, so I'm not really tuned into the mod side of things.
+* Online tools are not my wheelhouse so I can't speak to this so much
+
+
+
+
+

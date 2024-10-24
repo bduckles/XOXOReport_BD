@@ -168,9 +168,6 @@ Some also talked about issues around money and the costs
 * I am deeply distrustful of commercial platforms. I have seen their attempts to monetize destroy communities.  I have some concern that a platform change could lead to some culture change.
 
 
-
-
-
 ### Loss of XOXO Spirit 
 
 Folks were concerned about losing the special something that comes from the XOXO community. 
@@ -198,8 +195,6 @@ Some folks shared the challenges that would be associated with bringing new folk
 * the balance between stagnation and leaving the door open to assholes.
 * Maintaining the community while continuing to grow in a considered way.
 * Privacy and safety. Also, do we limit membership to folks already in the Slack? (I personally prefer this)
-
-
 
 
 ## Platform Functions 
@@ -232,16 +227,16 @@ The function of threading in the platform emerged as a really key component of w
 
 ## Platform Specific Discussions 
 
-## Discord 
+### Discord 
 
 Folks had opinions about Discord both for and against. 
 
-### Pro for Discord 
+#### Pro for Discord 
 
 * Please let's just move to Discord and copy over the channels exactly. Let's keep this simple.
 * I really don’t want us to try and spin up our own bespoke solution - having been part of many communities that tried to do that, the maintainer burden is very high and retention starts to drop fast. Let’s stick with a solution that’s built and has a dedicated (paid ) team behind it, like Discord or Slack.
 
-### Cons for Discord 
+#### Cons for Discord 
 
 * UI is hard for me. Discord is hard for me to keep up with - the lack of threading is really hard
 * Discord and Zulip are both an absolute nightmare from a UI & UX perspective. You can't really leave channels in Discord.
@@ -257,16 +252,11 @@ Folks had opinions about Discord both for and against.
 * Discord and corporate platforms will enshittify
 
 
-
-
-
-
-
-## Slack
+### Slack
 
 Folks shared their pros for using Slack in the future. 
 
-### Pros for Slack 
+#### Pros for Slack 
 
 * Learning a new platform can be asking a lot. Slack is easy. I'm open to anything I have anxiety around navigating a new space regardless of platform
 * I'm used to Slack, for all its problems ... I'm worried we will overestimate our community's desire to run/manage something bespoke (I think we should use a hosted service for sure)
@@ -275,12 +265,11 @@ Folks shared their pros for using Slack in the future.
 * Loss of participation and splintering of interests / groups. Having yet another place to track (I belong to a lot of slack communities and use it at work, so it’s a natural part of my day. I tried with Discord, but they always fizzle out).
 * Honestly if it's significantly less convenient (I use slack for work) then I don't think I'll read or contribute to it as much
 
-
-## OSS 
+### OSS 
 
 Folks talked about the downsides for doing an open source software (OSS) package
 
-### Cons for OSS 
+#### Cons for OSS 
 
 * Moving to another corporate platform like Discord of course has its risks. Their monitezation hooks are already obnoxious, but it still feels like the best fit for this community. I also worry about the opposite problem of persuing an open source/self hosted platform that is frustrating/alienating to use for most people. Doesn't feel like there are any perfect soluations out there, so we just have to make the best decision we can.
 * I'm used to Slack, for all its problems ... I'm worried we will overestimate our community's desire to run/manage something bespoke (I think we should use a hosted service for sure)
