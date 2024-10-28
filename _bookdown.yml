@@ -1,6 +1,6 @@
 book_filename: "XOXO_CommunitySurvey_2024"
 delete_merged_file: true
-rmd_files: ["index.Rmd", "01-ExecSummary.Rmd", "02-ValuesCommty.Rmd", "03-AppreciateCmmty.Rmd", "04-Concerns.Rmd", "05-Platform2.Rmd", "06-PlatOpp.Rmd", "07-PlatformConcerns.Rmd", "08-Name.Rmd", "09-Impact.Rmd", "10-Andys2.Rmd", "12-AppendixQuestions.Rmd"]
+rmd_files: ["index.Rmd", "01-ExecSummary.Rmd", "02-ValuesCommty.Rmd", "03-AppreciateCmmty.Rmd",  "09-Impact.Rmd", "04-Concerns.Rmd", "05-Platform2.Rmd", "06-PlatOpp.Rmd", "07-PlatformConcerns.Rmd", "08-Name.Rmd", "10-Andys2.Rmd", "12-AppendixQuestions.Rmd"]
 language:
   ui:
     chapter_name: "Chapter "
