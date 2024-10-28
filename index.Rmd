@@ -11,10 +11,45 @@ github-repo: https://github.com/bduckles/XOXOReport_BD
 
 ---
 
-
 # XOXO Community Survey 2024
 
-Welcome to the XOXO Community Survey 2024 report. This report covers various aspects of community engagement and feedback collected during the survey.
+## What This Is 
 
-## Table of Contents
+This is a vibe check community survey of the [XOXO Fest Slack community](https://xoxofest.com/). 
+
+In early October 2024, Andy McMillan and Andy Baio (sometimes collectively referred to as “the Andys”) who are the organizers of the festival and the Slack announced that because the festival ended, they would be closing down the XOXO Slack community that has been a mainstay of the community since the beginning of the festival. 
+
+In response to this announcement, some folks suggested we might want to do a survey to discuss next directions. These directions included: which platforms folks wanted, what their concerns were about the closure and what positive directions this shift might take. 
+
+We also wanted to give people a chance to share their feelings and emotions about the shift and to share their gratitude.
+
+Beth Duckles put together this survey to solicit community feedback. We put it out on October 9th, 2024 and gave the existing Slack community about a week to respond. We received 154 responses. 
+
+Analysis was done by Beth Duckles and Rosa Quiñones, the report was written by Beth Duckles with editing and feedback from Benjamin Chait, stacy-marie ishmael, Matt Lee, Josh Millard, Rosa Quiñones, Nora Ryan, Pete Modica-Soloway and David Werthheimer.
+
+
+## How We Did It
+
+This report summarizes the findings of the survey responses and identifies key themes.
+
+Our goal was to provide materials that would contribute to a community discussion, rather than an exhaustive categorization of every comment. By reflecting what we saw/read in the data, we’re hoping to give more data to the conversation. 
+
+Beth and Rosa organized the comments for each question into themes as a way to share the information that came from the survey. In each theme, we share quotes in bullet points that describe what we saw relating to that theme.
+
+This grouping of responses into themes was done very quickly. Our goal was for the community to have something fast rather than something perfect (and long-delayed). There may be themes you identify in the data we didn’t highlight, or categorizations that you might have approached differently.	
+
+
+## The Data 
+
+There is a lot here, so we understand that you may need time to process all of it.
+
+Listening to the many voices of other people involves letting their words be at the center, which means we highlight lots of quotes. You will sometimes see the same quote in multiple places.
+
+In this kind of research *we don’t edit what people write in their response to the survey*. This means that if there are typos in survey responses, those are reflected without editing here.
+
+## Gift 
+
+This survey and research are a gift freely offered to a community that has given us so so much.
+
+I (Beth), do work like this for communities as a research consultant and would be happy to talk to you about doing research for communities you’re a part of. I was able to do this work because of some freedom in my schedule, but am always looking for new clients. If you want to talk to me about research projects for hire or want to drop a few bucks my way, find me on the Slack at bduckles or beth@duckles.com or online at (Beth Duckles)[https://bethduckles.com/].
 

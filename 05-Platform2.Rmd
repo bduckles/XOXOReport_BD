@@ -59,15 +59,14 @@ ggplot(k_plat, aes(x = fct_reorder(Code, n), y = n)) +
 ```
 
 
-By far the favorite was Discord, followed by Slack and Discourse. The question was multiple select, so folks voted for as many as they wanted and there is overlap in what people responded with. 
+The favorite was Discord, followed closely by Slack and then Discourse. The question was multiple select, so folks voted for as many as they wanted and there is overlap in what people responded with. 
 
 Some folks wrote in to say that they didn't know the differences between the platforms, that they didn't have an opinion and that they would follow where the group would go. 
 
 
-
 ## Computer vs. Mobile
 
-Some folks were curious to know how important mobile vs. computer usage would be for the platform. We can see clearly from the chart that most people use both, and so functionality on both mobile and computers is important. 
+Survey designers were curious to know how important mobile vs. computer usage would be for the platform. We can see clearly from the chart that most people use both, and so functionality on both mobile and computers is important. 
 
 ```{r platform-piechart, echo=FALSE, message = FALSE, fig.height=6, fig.width=8}
 

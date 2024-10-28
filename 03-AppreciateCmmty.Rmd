@@ -3,6 +3,8 @@
 
 The question we’ll discuss in this section was “What do you appreciate about the XOXO Slack community?” Unsurprisingly, this mirrored much of what was discussed in the values section, but with deeper explanation. 
 
+This section is split into three subsections: folks shared appreciation for the people, the resources in the community and the shared values. 
+
 ## The People 
 
 By far, the overwhelming response to this question of what folks appreciate about the Slack is the other people in the Slack. 
@@ -36,6 +38,17 @@ One of the attributes of the people that folks commented on was how many diverse
 *	Such a breadth of experience and diverse skills in the members!
 * That it's far more of a diverse community – along almost any axis, other than perhaps political leanings – than I would ever have access to in my day to day life.
 * diversity, empathy, endless curiosity
+
+### Portland 
+
+Folks in Portland in particular talked about how useful the slack was to find things in their community.
+
+*	I'm a lurker, more than a poster. The #portland slack has been incredibly valuable as a local. I've attended events, visited restaurants, learned about civic activities, and donated to causes I learned about via Slack.
+*	For Portland especially, xoxo is a wonderful resource of news, vendors, events.
+*	Its relative privacy and safety, most of the cool new things I've learned about in Portland and on the Internet were via this Slack.
+*	It's been a really good resource for things going on in Portland Oregon! Otherwise it's just nice to see what people are up to or reading.
+* feels like the small room of good internet circa 2010-2015 and/or like Twitter before it got bad. Secondly, as a new native to Portland I really appreciate participating in a community of like-minded local creators
+
 
 
 
@@ -83,7 +96,6 @@ Folks also discussed how important it was to learn from others in the slack and 
 *	It's a large group of smart, successful, creative, people who as a whole, is good-internet. I've made friends and professional connections here and my favorite by-product is the community's ability to help me gather information on almost anything, which also spoils me because I'm not confident in my abilities to find reliable information through traditional web searches.
 
 
-
 ### News
 
 Folks also described the slack as the place that they used to find the news, and that they relied on each other to have compelling and interesting conversations about topics that were on the front page of the newspapers.  
@@ -108,6 +120,19 @@ People described the benefit of being in a space where folks share cool stuff an
 *	Curated content, exclusive access, there are experts in everything
 *	Fellow nerds and weirdos who read the internet so I don’t have to. Also I like that sharing is encouraged. I’m not someone with any real online presence so it’s nice having that space. Also, being able to have people productively disagree, though there have been a few instance of that being tested in the politics channel, the way it was handled by the Andy’s was I think very good.
 *	empathy, wisdom of the crowd, discovery
+
+### Alternative to Media 
+
+Some folks talked about the community as a place where they could have a discussion that wasn’t as broken as some of the media we have now. 
+
+*	It’s a group that cares about and wants the best from the Internet, but without the blind techno-Utopianism of mainstream tech culture.
+*	I like that I have a place to hear about the things I'd hear about on social media (news, tech news, neat creative projects, dumb jokes) without the context collapse of social media, and in a moderated and kind environment. As a curated microcosm of the internet at large, I can dip my toe in and feel rewarded without getting hit with the anxiety and overwhelm - and the smaller scale means I've made some lasting friendships and connections because I'm able to show up more fully than I would if I was more afraid.
+*	It’s a place where I can stay abreast on the difficult topics of the modern digital world and remain connected to other digital artists without the terrible emotional pain that comes along with using social media like Twitter
+*	A digital shelter from a capitalistic web
+* It helps keep me centered in a greedy, competitive world.
+* nice place for nerds to nerd out
+
+
 
 
 ## Shared Values 
@@ -142,10 +167,6 @@ Many, many people in the survey described the community as kind. Some examples:
 * everyone is so nice and we assume best intentions! also each account is one real person who has presumably interacted with the other people here IRL at least once, as part of a larger network (which lends some accountability/responsibility)
 * People are nice to each other. There are regular characters. The usual Slack conveniences that make it possible for people to not repeat themselves and to let me ignore US politics if I want to.
 * the small acts of kindness or indications of support people offer each other; emoji indications or threaded replies have genuinely lifted my spirits
-
-
-
-
 
 
 
@@ -205,27 +226,7 @@ People also described the community as open:
 *	that it's open, helpful, welcoming, entertaining
 
 
-## Portland 
 
-Folks in Portland in particular talked about how useful the slack was to find things in their community. 
-
-*	I'm a lurker, more than a poster. The #portland slack has been incredibly valuable as a local. I've attended events, visited restaurants, learned about civic activities, and donated to causes I learned about via Slack.
-*	For Portland especially, xoxo is a wonderful resource of news, vendors, events.
-*	Its relative privacy and safety, most of the cool new things I've learned about in Portland and on the Internet were via this Slack.
-*	It's been a really good resource for things going on in Portland Oregon! Otherwise it's just nice to see what people are up to or reading.
-* feels like the small room of good internet circa 2010-2015 and/or like Twitter before it got bad. Secondly, as a new native to Portland I really appreciate participating in a community of like-minded local creators
-
-
-## Alternative to Media 
-
-Some folks talked about the community as a place where they could have a discussion that wasn’t as broken as some of the media we have now. 
-
-*	It’s a group that cares about and wants the best from the Internet, but without the blind techno-Utopianism of mainstream tech culture.
-*	I like that I have a place to hear about the things I'd hear about on social media (news, tech news, neat creative projects, dumb jokes) without the context collapse of social media, and in a moderated and kind environment. As a curated microcosm of the internet at large, I can dip my toe in and feel rewarded without getting hit with the anxiety and overwhelm - and the smaller scale means I've made some lasting friendships and connections because I'm able to show up more fully than I would if I was more afraid.
-*	It’s a place where I can stay abreast on the difficult topics of the modern digital world and remain connected to other digital artists without the terrible emotional pain that comes along with using social media like Twitter
-*	A digital shelter from a capitalistic web
-* It helps keep me centered in a greedy, competitive world.
-* nice place for nerds to nerd out
 
 
 

@@ -3,7 +3,11 @@
 
 We asked folks “What concerns (if any) do you have as the XOXO Slack winds down?” 
 
-## Losing the Community
+Folks expressed their sadness about the loss of the community, loss of connection, resources and that special XOXO spirit. There were concerns about new platforms, new leadership, and several different groups in the community expressed their concerns. 
+
+## Loss
+
+### Losing the Community
 
 People were very concerned about losing the community that was built. 
 
@@ -20,8 +24,7 @@ People were very concerned about losing the community that was built.
 * That I won't be able to engage with a community I've come to appreciate and speak/discuss things in a friendly and safe space.
 
 
-
-## Fragmentation
+### Fragmentation
 
 Folks mentioned worrying about the splintering, fracturing or fragmenting of the community. 
 
@@ -44,9 +47,7 @@ Similar to the worries about fragmentation were folks worried about the lack of 
 *	I don't want to lose the community we created
 
 
-
-
-## Loss of Contacts/Connections/Networks 
+### Loss of Contacts/Connections/Networks 
 
 People also worried about the loss of the people they know, and the contacts and network that the community is made of:
 
@@ -72,9 +73,7 @@ People also worried about the loss of the people they know, and the contacts and
 * Losing track of everyone and all of the great resources and conversations. Losing the job board.
 
 
-
-
-## Loss of Resources 
+### Loss of Resources 
 
 Folks talked about the resource of the community and their fears about losing those resources. 
 
@@ -90,7 +89,7 @@ Folks talked about the resource of the community and their fears about losing th
 * Not being able to connect to people whose opinions, feedback, and camaraderie I’ve grow to trust and rely on
 
 
-## Loss of Special XOXO Spirit 
+### Loss of Special XOXO Spirit 
 There was also a sense of loss of the intangible sense of the spirit of this community 
 
 *	Initially, the new space doesn't _sufficiently_ capture the spirit. Long-term, that it degrades.
@@ -104,8 +103,7 @@ There was also a sense of loss of the intangible sense of the spirit of this com
 * Losing instances of kismet or good luck which occur when a very large group of talented people are all drawn to the same place - there's a kind of magic to being surrounded by people who are also devoted to both kindness and trying their best at what they do. There are not many places in the world where I could say as an artist, “Randomly, I’m obsessed with these repeat-pattern window films” and someone says “Oh, my wife is half of that design team!” and now we’re in touch and might get to make cool stuff 
 
 
-
-### I'll Never Find Something Like This Again
+#### I'll Never Find Something Like This Again
 
 Among the ways that folks talked about their fear of losing the special spirit was with phrases around how hard it would be to find something like this again. 
 
@@ -116,7 +114,7 @@ Among the ways that folks talked about their fear of losing the special spirit w
 * I’m just worried I won’t be able to find the next spot!
 
 
-### This Slack is Different 
+#### This Slack is Different 
 
 Several folks also remarked that this place is different than other types of social media and so it cannot be easily replaced with another platform or group of people. 
 
@@ -126,7 +124,7 @@ Several folks also remarked that this place is different than other types of soc
 *	Loosing instant access to a wonderful community of people that has filled the social media hole in my life after deleting everything but LinkedIn.
 * I am just so sick of everybody-has-a-megaphone performative-outrage social meida sites.
 
-### Slack as a "Third Space"" 
+#### Slack as a "Third Space"" 
 
 Other folks talked about the slack as a sort of “third place” or a spot that one returns to. Some folks talked about it as a water cooler or a place to hang out. 
 
@@ -135,7 +133,7 @@ Other folks talked about the slack as a sort of “third place” or a spot that
 *	I work from home and it's my main watercooler! Will miss that and hope the replacement functions similarly.
 *	It’s my favorite place on the internet
 
-## Concerns about New Platforms 
+## Concerns About New Platforms 
 
 Some folks shared their concerns about new platforms
 
@@ -150,9 +148,7 @@ Some folks shared their concerns about new platforms
 * I want us to find a new home that can stay as dynamic and vibrant. That can be appreciated in both real time and periodically.
 
 
-
-
-## New Leadership 
+## Concerns about Leadership 
 
 Some voiced concerns about whomever assumes the leadership of what comes next. 
 
@@ -176,7 +172,7 @@ Some discussed concerns around governing with a new leadership
 
 ## Community Needs
 
-Different groups talked about the needs they had that might be specific for their experiences. 
+Different groups in the community talked about their specific needs.  
 
 ### Mental Health and Well Being 
 
@@ -207,9 +203,11 @@ Some respondents highlighted the difference in responses for those who are newer
 *	The thing is that I want this to be an opportunity for growth, including opening up invitations eventually. I know not everyone will make the jump, and even less will be frequent users, but I really hope this is also an opportunity to bring in new voices. I was a volunteer this year, and some thing that Andy said was to be mindful of the fact that for many people this was their first XOXO, so don’t make it all about sipping on the sweet nectar of your memories. I want the next chapter to be like that, but more. sorry for the long answer
 
 
-## Positive Words
+## Additional Comments 
 
-Some folks shared words of affirmation or enthusiasm for what comes next instead of concerns
+### Positive Words
+
+Some folks shared words of affirmation or enthusiasm for what comes next instead of concerns.
 
 *	I am confident that the community wants to continue.
 *	This is a curated group and allowing new people in will change that in fundamental ways. I think it's okay if the community "winds down" (fewer users) because there's still a core happening, and people can come back in as their own needs change.
@@ -219,18 +217,6 @@ Some folks shared words of affirmation or enthusiasm for what comes next instead
 *	While it’s probably inevitable that a platform shift will cause some people to drift away/not come with, I am hoping there is something that reflects the same core values of the Slack community in a sustainable (financially, emotional labor-wise) way
 
 
-## Additional Comments 
-
-### Sadness 
-
-Some discussed their sadness around the shift 
-
-*	No concerns really, it’s just sad
-
-### Concerns About Safety 
-
-* Privacy and safety. What prevents people from screenshotting and sharing once channels go inactive? What rules will there be for this new era of interaction with the archives?
-
 ### I'll Go Wherever 
 
 Some said they would go to whatever comes next: 
@@ -238,12 +224,15 @@ Some said they would go to whatever comes next:
 *	Would like to follow the diaspora to other venues
 *	I don't really care where it goes, as long as it survives.
 
-### Concerns about Channels 
-
-* Keeping various sub-communities (channels) and safety of the space 
-
 ### Missing the Emojis 
 
 *	I’ll miss the custom emojis; they were a second language to this community.
 *	i will feel like i have lost a ton of my working vocabulary if we lose all our reactji! and I will very much miss people who for whatever reason can't transition to whatever comes next
 
+
+
+### More Thoughts 
+
+*	No concerns really, it’s just sad
+* Privacy and safety. What prevents people from screenshotting and sharing once channels go inactive? What rules will there be for this new era of interaction with the archives?
+* Keeping various sub-communities (channels) and safety of the space 
